@@ -1,0 +1,699 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\lucaaas\desktop\tpfinal_nuevointento\pila.c
+	"pila.h"
+
+1490112217 c:\users\lucaaas\desktop\tpfinal_nuevointento\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1491400450 source:c:\users\lucaaas\desktop\tpfinal_nuevointento\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1592697959 source:c:\users\lucaaas\desktop\tpfinal_nuevointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<strings.h>
+
+1491400450 source:c:\users\facun\onedrive\desktop\tpfinal_nuevointento\tpfinal_nuevointento\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1592788613 source:c:\users\facun\onedrive\desktop\tpfinal_nuevointento\tpfinal_nuevointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<strings.h>
+
+1490112217 source:c:\users\facun\onedrive\desktop\tpfinal_nuevointento\tpfinal_nuevointento\pila.c
+	"pila.h"
+
+1490112217 c:\users\facun\onedrive\desktop\tpfinal_nuevointento\tpfinal_nuevointento\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1491400450 source:c:\users\lucaaas\documents\tpfinal_ultimointento\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1592867639 source:c:\users\lucaaas\documents\tpfinal_ultimointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<strings.h>
+
+1490112217 source:c:\users\lucaaas\documents\tpfinal_ultimointento\pila.c
+	"pila.h"
+
+1490112217 c:\users\lucaaas\documents\tpfinal_ultimointento\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1491400450 source:c:\users\lucaaas\desktop\tpfinal_ultimointento\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1592928122 source:c:\users\lucaaas\desktop\tpfinal_ultimointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<strings.h>
+
+1490112217 source:c:\users\lucaaas\desktop\tpfinal_ultimointento\pila.c
+	"pila.h"
+
+1490112217 c:\users\lucaaas\desktop\tpfinal_ultimointento\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1491400450 source:c:\users\facun\onedrive\desktop\tpfinal_ultimointento\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1490112217 source:c:\users\facun\onedrive\desktop\tpfinal_ultimointento\pila.c
+	"pila.h"
+
+1490112217 c:\users\facun\onedrive\desktop\tpfinal_ultimointento\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1593118987 source:c:\users\facun\onedrive\desktop\tpfinal_ultimointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<strings.h>
+
+1491400450 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605221504 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"gotoxy.h"
+	"unCliente.h"
+	"variasClientes.h"
+	"pasajes.h"
+	"utilidades.h"
+	"unConsumo.h"
+	"variasConsumos.h"
+	"menu.h"
+	"Arbol.h"
+
+1490112217 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\pila.c
+	"pila.h"
+
+1490112217 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1491400450 source:c:\users\facun\onedrive\desktop\tup 1 2020\programacion i\parciales\tp final ludueÑa - rueda\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593210720 source:c:\users\facun\onedrive\desktop\tup 1 2020\programacion i\parciales\tp final ludueÑa - rueda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<strings.h>
+
+1490112217 source:c:\users\facun\onedrive\desktop\tup 1 2020\programacion i\parciales\tp final ludueÑa - rueda\pila.c
+	"pila.h"
+
+1490112217 c:\users\facun\onedrive\desktop\tup 1 2020\programacion i\parciales\tp final ludueÑa - rueda\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1605218588 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\menu.c
+	"menu.h"
+
+1605218588 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\menu.h
+
+1605218588 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\uncliente.h
+	<string.h>
+	<stdio.h>
+
+1605218865 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\variasclientes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+
+1605219312 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\pasajes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+	"unConsumo.h"
+
+1605218816 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\unconsumo.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605218588 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\utilidades.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605218865 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\variasconsumos.h
+	"unConsumo.h"
+
+1605215034 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\pasajes.c
+	"pasajes.h"
+
+1605218588 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\uncliente.c
+	"unCliente.h"
+
+1605218588 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\utilidades.c
+	"utilidades.h"
+
+1605221504 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\unconsumo.c
+	"unConsumo.h"
+
+1605218588 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\variasclientes.c
+	"variasClientes.h"
+
+1605218588 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\variasconsumos.c
+	"variasConsumos.h"
+
+1491399896 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\gotoxy.h
+
+1605222071 source:c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\arbol.c
+	"Arbol.h"
+
+1605222032 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"unCliente.h"
+	"unConsumo.h"
+	"listaSimple.h"
+
+1605221516 c:\users\facun\onedrive\desktop\tp final ludueÑa - rueda\listasimple.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"unConsumo.h"
+
+1605907060 source:c:\users\facun\onedrive\desktop\tp final lab 2\arbol.c
+	"Arbol.h"
+
+1605906966 c:\users\facun\onedrive\desktop\tp final lab 2\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"unCliente.h"
+	"unConsumo.h"
+	"listaSimple.h"
+
+1605218588 c:\users\facun\onedrive\desktop\tp final lab 2\uncliente.h
+	<string.h>
+	<stdio.h>
+
+1605218816 c:\users\facun\onedrive\desktop\tp final lab 2\unconsumo.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605904317 c:\users\facun\onedrive\desktop\tp final lab 2\variasclientes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+
+1605221516 c:\users\facun\onedrive\desktop\tp final lab 2\listasimple.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"unConsumo.h"
+
+1491400450 source:c:\users\facun\onedrive\desktop\tp final lab 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605222105 source:c:\users\facun\onedrive\desktop\tp final lab 2\listasimple.c
+	"listaSimple.h"
+
+1605215034 source:c:\users\facun\onedrive\desktop\tp final lab 2\pasajes.c
+	"pasajes.h"
+
+1605219312 c:\users\facun\onedrive\desktop\tp final lab 2\pasajes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+	"unConsumo.h"
+
+1605218588 source:c:\users\facun\onedrive\desktop\tp final lab 2\uncliente.c
+	"unCliente.h"
+
+1605221504 source:c:\users\facun\onedrive\desktop\tp final lab 2\unconsumo.c
+	"unConsumo.h"
+
+1605218588 source:c:\users\facun\onedrive\desktop\tp final lab 2\utilidades.c
+	"utilidades.h"
+
+1605218588 c:\users\facun\onedrive\desktop\tp final lab 2\utilidades.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605904317 source:c:\users\facun\onedrive\desktop\tp final lab 2\variasclientes.c
+	"variasClientes.h"
+
+1605218588 source:c:\users\facun\onedrive\desktop\tp final lab 2\variasconsumos.c
+	"variasConsumos.h"
+
+1605218865 c:\users\facun\onedrive\desktop\tp final lab 2\variasconsumos.h
+	"unConsumo.h"
+
+1605306492 source:c:\users\facun\onedrive\desktop\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"gotoxy.h"
+	"unCliente.h"
+	"variasClientes.h"
+	"pasajes.h"
+	"utilidades.h"
+	"unConsumo.h"
+	"variasConsumos.h"
+	"menu.h"
+	"Arbol.h"
+
+1491399896 c:\users\facun\onedrive\desktop\tp final lab 2\gotoxy.h
+
+1605306492 c:\users\facun\onedrive\desktop\tp final lab 2\menu.h
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+
+1605907860 source:c:\users\facun\onedrive\desktop\tp final lab 2\menu.c
+	"menu.h"
+
+1605914792 source:c:\users\lauta\desktop\tp final lab 2\arbol.c
+	"Arbol.h"
+
+1605914809 c:\users\lauta\desktop\tp final lab 2\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"unCliente.h"
+	"unConsumo.h"
+	"listaSimple.h"
+
+1605218588 c:\users\lauta\desktop\tp final lab 2\uncliente.h
+	<string.h>
+	<stdio.h>
+
+1605218816 c:\users\lauta\desktop\tp final lab 2\unconsumo.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605904317 c:\users\lauta\desktop\tp final lab 2\variasclientes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+
+1605221516 c:\users\lauta\desktop\tp final lab 2\listasimple.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"unConsumo.h"
+
+1491400450 source:c:\users\lauta\desktop\tp final lab 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605222105 source:c:\users\lauta\desktop\tp final lab 2\listasimple.c
+	"listaSimple.h"
+
+1605915744 source:c:\users\lauta\desktop\tp final lab 2\menu.c
+	"menu.h"
+
+1605306492 c:\users\lauta\desktop\tp final lab 2\menu.h
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+
+1491399896 c:\users\lauta\desktop\tp final lab 2\gotoxy.h
+
+1605215034 source:c:\users\lauta\desktop\tp final lab 2\pasajes.c
+	"pasajes.h"
+
+1605219312 c:\users\lauta\desktop\tp final lab 2\pasajes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+	"unConsumo.h"
+
+1605218588 source:c:\users\lauta\desktop\tp final lab 2\uncliente.c
+	"unCliente.h"
+
+1605221504 source:c:\users\lauta\desktop\tp final lab 2\unconsumo.c
+	"unConsumo.h"
+
+1605218588 source:c:\users\lauta\desktop\tp final lab 2\utilidades.c
+	"utilidades.h"
+
+1605218588 c:\users\lauta\desktop\tp final lab 2\utilidades.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605904317 source:c:\users\lauta\desktop\tp final lab 2\variasclientes.c
+	"variasClientes.h"
+
+1605909337 source:c:\users\lauta\desktop\tp final lab 2\variasconsumos.c
+	"variasConsumos.h"
+
+1605909337 c:\users\lauta\desktop\tp final lab 2\variasconsumos.h
+	"unConsumo.h"
+
+1605915771 source:c:\users\lauta\desktop\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"gotoxy.h"
+	"unCliente.h"
+	"variasClientes.h"
+	"pasajes.h"
+	"utilidades.h"
+	"unConsumo.h"
+	"variasConsumos.h"
+	"menu.h"
+	"Arbol.h"
+
+1605914792 source:c:\users\lauta\desktop\tp final lab 2 2\arbol.c
+	"Arbol.h"
+
+1605914809 c:\users\lauta\desktop\tp final lab 2 2\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"unCliente.h"
+	"unConsumo.h"
+	"listaSimple.h"
+
+1605218588 c:\users\lauta\desktop\tp final lab 2 2\uncliente.h
+	<string.h>
+	<stdio.h>
+
+1605218816 c:\users\lauta\desktop\tp final lab 2 2\unconsumo.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605904317 c:\users\lauta\desktop\tp final lab 2 2\variasclientes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+
+1605221516 c:\users\lauta\desktop\tp final lab 2 2\listasimple.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"unConsumo.h"
+
+1491400450 source:c:\users\lauta\desktop\tp final lab 2 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605222105 source:c:\users\lauta\desktop\tp final lab 2 2\listasimple.c
+	"listaSimple.h"
+
+1605915744 source:c:\users\lauta\desktop\tp final lab 2 2\menu.c
+	"menu.h"
+
+1605306492 c:\users\lauta\desktop\tp final lab 2 2\menu.h
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+
+1491399896 c:\users\lauta\desktop\tp final lab 2 2\gotoxy.h
+
+1605215034 source:c:\users\lauta\desktop\tp final lab 2 2\pasajes.c
+	"pasajes.h"
+
+1605219312 c:\users\lauta\desktop\tp final lab 2 2\pasajes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+	"unConsumo.h"
+
+1605218588 source:c:\users\lauta\desktop\tp final lab 2 2\uncliente.c
+	"unCliente.h"
+
+1605221504 source:c:\users\lauta\desktop\tp final lab 2 2\unconsumo.c
+	"unConsumo.h"
+
+1605218588 source:c:\users\lauta\desktop\tp final lab 2 2\utilidades.c
+	"utilidades.h"
+
+1605218588 c:\users\lauta\desktop\tp final lab 2 2\utilidades.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605904317 source:c:\users\lauta\desktop\tp final lab 2 2\variasclientes.c
+	"variasClientes.h"
+
+1605909337 source:c:\users\lauta\desktop\tp final lab 2 2\variasconsumos.c
+	"variasConsumos.h"
+
+1605909337 c:\users\lauta\desktop\tp final lab 2 2\variasconsumos.h
+	"unConsumo.h"
+
+1606061967 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\arbol.c
+	"Arbol.h"
+
+1605914809 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"unCliente.h"
+	"unConsumo.h"
+	"listaSimple.h"
+
+1606085394 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\uncliente.h
+	<string.h>
+	<stdio.h>
+
+1606143560 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\unconsumo.h
+	"unCliente.h"
+	"variasClientes.h"
+	"utilidades.h"
+
+1606062029 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\variasclientes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+	"menu.h"
+
+1605221516 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\listasimple.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"unConsumo.h"
+
+1491400450 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606061967 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\listasimple.c
+	"listaSimple.h"
+
+1606085487 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\menu.c
+	"menu.h"
+
+1606061967 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\menu.h
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+
+1491399896 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\gotoxy.h
+
+1605215034 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\pasajes.c
+	"pasajes.h"
+
+1605219312 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\pasajes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+	"unConsumo.h"
+
+1606086201 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\uncliente.c
+	"unCliente.h"
+	"variasClientes.h"
+
+1606088555 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\unconsumo.c
+	"unConsumo.h"
+	"variasConsumos.h"
+	"variasClientes.h"
+
+1606061967 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\utilidades.c
+	"utilidades.h"
+
+1605218588 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\utilidades.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1606061967 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\variasclientes.c
+	"variasClientes.h"
+
+1606143080 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\variasconsumos.c
+	"variasConsumos.h"
+
+1606062030 c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\variasconsumos.h
+	"unConsumo.h"
+	"menu.h"
+
+1606089125 source:c:\users\facun\onedrive\desktop\tp final lab 2  modificado\tp final lab 2  modificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"gotoxy.h"
+	"unCliente.h"
+	"variasClientes.h"
+	"pasajes.h"
+	"utilidades.h"
+	"unConsumo.h"
+	"variasConsumos.h"
+	"menu.h"
+	"Arbol.h"
+
+1606061967 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\arbol.c
+	"Arbol.h"
+
+1605914809 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"unCliente.h"
+	"unConsumo.h"
+	"listaSimple.h"
+
+1606085394 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\uncliente.h
+	<string.h>
+	<stdio.h>
+
+1606143560 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\unconsumo.h
+	"unCliente.h"
+	"variasClientes.h"
+	"utilidades.h"
+
+1606062029 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\variasclientes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+	"menu.h"
+
+1606061967 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\menu.h
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+
+1491399896 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\gotoxy.h
+
+1605218588 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\utilidades.h
+	"unCliente.h"
+	"variasClientes.h"
+
+1605221516 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\listasimple.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"unConsumo.h"
+
+1491400450 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606061967 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\listasimple.c
+	"listaSimple.h"
+
+1606089125 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"gotoxy.h"
+	"unCliente.h"
+	"variasClientes.h"
+	"pasajes.h"
+	"utilidades.h"
+	"unConsumo.h"
+	"variasConsumos.h"
+	"menu.h"
+	"Arbol.h"
+
+1605219312 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\pasajes.h
+	<string.h>
+	<stdio.h>
+	"unCliente.h"
+	"unConsumo.h"
+
+1606062030 c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\variasconsumos.h
+	"unConsumo.h"
+	"menu.h"
+
+1606085487 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\menu.c
+	"menu.h"
+
+1605215034 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\pasajes.c
+	"pasajes.h"
+
+1606086201 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\uncliente.c
+	"unCliente.h"
+	"variasClientes.h"
+
+1606143598 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\unconsumo.c
+	"unConsumo.h"
+	"variasConsumos.h"
+	"variasClientes.h"
+
+1606061967 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\utilidades.c
+	"utilidades.h"
+
+1606061967 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\variasclientes.c
+	"variasClientes.h"
+
+1606143080 source:c:\users\lauta\desktop\tp final lab 2  modificado\tp final lab 2  modificado\variasconsumos.c
+	"variasConsumos.h"
+
